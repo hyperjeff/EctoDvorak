@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1.0.0</string>
+	<string>0.1.0</string>
 	<key>ProjectName</key>
-	<string>DeepDvorak</string>
+	<string>EctoDvorak</string>
 	<key>SourceVersion</key>
 	<string>1</string>
 </dict>
