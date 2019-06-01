@@ -1,4 +1,4 @@
-EctoDvorak keyboard layout for MacOS
+EctoDvorak keyboard layout for macOS
 ===========
 
 EctoDvorak is mod of [DeepDvorak](https://github.com/vbauerster/DeepDvorak), which is a mod of [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/index.html). Both variants do some interesting things, but this an attempt to steer things into another direction, at least initially set in motion by my needs while in Swift programmer mode.
