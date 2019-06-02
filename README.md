@@ -3,7 +3,7 @@ EctoDvorak keyboard layout for macOS
 
 EctoDvorak is mod of [DeepDvorak](https://github.com/vbauerster/DeepDvorak), which is a mod of [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/index.html). Both variants do some interesting things, but this an attempt to steer things into another direction, at least initially set in motion by my needs while in Swift programmer mode.
 
-While I'm inspired by their willingness to totally change up where numbers and symbols go, and many ideas are really great, I want to change up a number of their choices.
+While I'm inspired by their willingness to totally change up where numbers and symbols go, and many ideas are really great, I want to explore other possibilities.
 
 ## Installation
 
