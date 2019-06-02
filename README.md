@@ -9,6 +9,8 @@ One thing to note is that I *keep* the QWERTY positions for the command-keys, un
 
 The other big difference is that I'm not sold on the toggle-numbering. I'd rather have numeric keypad style or linear, and this keyboard gives both options to fit your mood. I follow both of the previous keyboards in making the symbols on the top row primary and the numbers secondary via the shift key. I'm puzzled this wasn't done starting in the '60's.
 
+As this is a work in progress, I'm leaving a lot of keys blank until I feel a need to put something in their place.
+
 ## Installation
 
  * Copy to a Keyboard Layouts directory:
