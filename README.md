@@ -5,6 +5,8 @@ EctoDvorak is mod of [DeepDvorak](https://github.com/vbauerster/DeepDvorak), whi
 
 While I'm inspired by their willingness to totally change up where numbers and symbols go, and many ideas are really great, I want to explore other possibilities.
 
+One thing to note is that I *keep* the QWERTY positions for the command-keys, until I see a compelling reason not to. It's a touch of Stockholm Syndrome on my part, but a lot of those key positions were chosen for geometric as well as letter reasons.
+
 ## Installation
 
  * Copy to a Keyboard Layouts directory:
