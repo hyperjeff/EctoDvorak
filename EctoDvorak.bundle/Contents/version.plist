@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>0.1.0</string>
+	<string>3</string>
 	<key>ProjectName</key>
 	<string>EctoDvorak</string>
 	<key>SourceVersion</key>
-	<string>1</string>
+	<string>2</string>
 </dict>
 </plist>
