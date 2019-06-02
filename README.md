@@ -36,12 +36,6 @@ Most of the top row is blank. Fairly nice access to parentheses. The same spot g
 
 [comment]: <> (* **Caps lock ⇪** !Shift state screenshots/caps.png)
 
-* **Command ⌘**
-
-Nothing to say here, just standard qwerty command keys.
-
-![Command state](screenshots/h-cmd.png)
-
 * **OPTION ⌥**
 
 This is pretty odd still. The numbers being here does feel pretty good. Probably too odd to keep /* where it is. I like the idea of lining up division to multiplication, and similar for the assignment variations, left to right like that. Still very experimental here overall.
@@ -51,3 +45,10 @@ This is pretty odd still. The numbers being here does feel pretty good. Probably
 [comment]: <> (* **SHIFT+OPTION  (⇧+⌥** !Shift+Option state screenshots/alt-shift.png)
 
 [comment]: <> (* **Dead state** !Dead state screenshots/dead.png)
+
+
+* **Command ⌘**
+
+Nothing to say here, just standard qwerty command keys.
+
+![Command state](screenshots/h-cmd.png)
