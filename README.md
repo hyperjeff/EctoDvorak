@@ -17,17 +17,21 @@ While I'm inspired by their willingness to totally change up where numbers and s
 ### Screenshots
 
 * **Normal state**
+
 ![Normal state](screenshots/normal.png)
 
 * **SHIFT ⇧**
+
 ![Shift state](screenshots/shift.png)
 
 [comment]: <> (* **Caps lock ⇪** !Shift state screenshots/caps.png)
 
 * **Command ⌘**
+
 ![Command state](screenshots/h-cmd.png)
 
 * **OPTION ⌥**
+
 ![Option state](screenshots/alt.png)
 
 * **SHIFT+OPTION  (⇧+⌥)**
