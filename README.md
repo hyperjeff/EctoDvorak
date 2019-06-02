@@ -7,6 +7,8 @@ While I'm inspired by their willingness to totally change up where numbers and s
 
 One thing to note is that I *keep* the QWERTY positions for the command-keys, until I see a compelling reason not to. It's a touch of Stockholm Syndrome on my part, but a lot of those key positions were chosen for geometric as well as letter reasons.
 
+The other big difference is that I'm not sold on the toggle-numbering. I'd rather have numeric keypad style or linear, and this keyboard gives both options to fit your mood. I follow both of the previous keyboards in making the symbols on the top row primary and the numbers secondary via the shift key. I'm puzzled this wasn't done starting in the '60's.
+
 ## Installation
 
  * Copy to a Keyboard Layouts directory:
