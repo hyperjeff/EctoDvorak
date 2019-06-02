@@ -42,7 +42,8 @@ This is pretty odd still. The numbers being here does feel pretty good. Probably
 
 ![Option state](screenshots/alt.png)
 
-[comment]: <> (* **SHIFT+OPTION  (⇧+⌥** !Shift+Option state screenshots/alt-shift.png)
+
+[comment]: <> (* **SHIFT+OPTION ⇧+⌥** !Shift+Option state screenshots/alt-shift.png)
 
 [comment]: <> (* **Dead state** !Dead state screenshots/dead.png)
 
