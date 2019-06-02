@@ -34,7 +34,6 @@ While I'm inspired by their willingness to totally change up where numbers and s
 
 ![Option state](screenshots/alt.png)
 
-* **SHIFT+OPTION  (⇧+⌥)**
-![Shift+Option state](screenshots/alt-shift.png)
+[comment]: <> (* **SHIFT+OPTION  (⇧+⌥** !Shift+Option state screenshots/alt-shift.png)
 
 [comment]: <> (* **Dead state** !Dead state screenshots/dead.png)
