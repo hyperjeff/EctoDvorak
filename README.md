@@ -22,8 +22,7 @@ While I'm inspired by their willingness to totally change up where numbers and s
 * **SHIFT ⇧**
 ![Shift state](screenshots/shift.png)
 
-* **Caps lock ⇪**
-![Shift state](screenshots/caps.png)
+[comment]: <> (* **Caps lock ⇪** !Shift state screenshots/caps.png)
 
 * **Command ⌘**
 ![Command state](screenshots/h-cmd.png)
@@ -34,5 +33,4 @@ While I'm inspired by their willingness to totally change up where numbers and s
 * **SHIFT+OPTION  (⇧+⌥)**
 ![Shift+Option state](screenshots/alt-shift.png)
 
-* **Dead state**
-![Dead state](screenshots/dead.png)
+[comment]: <> (* **Dead state** !Dead state screenshots/dead.png)
