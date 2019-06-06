@@ -46,7 +46,7 @@ This is pretty odd still. The numbers being here does feel pretty good, though I
 
 Not much going on here so far. It offers variants to matching keys from the Option layout. Lots of room here, but who likes hitting shift and option at the same time?
 
-![Shift+Option state] screenshots/alt-shift.png)
+![Shift+Option state](screenshots/alt-shift.png)
 
 [comment]: <> (* **Dead state** !Dead state screenshots/dead.png)
 
