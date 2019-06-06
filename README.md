@@ -24,13 +24,13 @@ As this is a work in progress, I'm leaving a lot of keys blank until I feel a ne
 
 * **Normal state**
 
-I'm not sure about the utility of the "self." key here, but the simple access to common symbols on the top row feels good so far. I really like the bottom row single-quote and having ready access to double-quotes without shift on a different key. It seems right separating them, especially while programming. I'll probably be moving the dash key. Stretching my 4th finger up there seems like too much for such a commonly used character. Also, the equals symbol seems a bit out of the way too.
+The single and double quote keys have been moved to mirror pinky positions (single on the left because of the position of the s key). Why two exclamation marks? I haven't yet decided which position is best.
 
 ![Normal state](screenshots/normal.png)
 
 * **SHIFT ⇧**
 
-Most of the top row is blank. Fairly nice access to parentheses. The same spot gives <> when using the option key. Curly braces overlap where braces are un-shifted. Testing out that unusual spot for ! but it feels good so far.
+Most of the top row is blank. Fairly nice access to parentheses. The same spot gives <> when using the option key. Curly braces overlap where braces are un-shifted.
 
 ![Shift state](screenshots/shift.png)
 
@@ -38,7 +38,7 @@ Most of the top row is blank. Fairly nice access to parentheses. The same spot g
 
 * **OPTION ⌥**
 
-This is pretty odd still. The numbers being here does feel pretty good. Probably too odd to keep /* where it is. I like the idea of lining up division to multiplication, and similar for the assignment variations, left to right like that. Still very experimental here overall.
+This is pretty odd still. The numbers being here does feel pretty good, though I realize it seems pretty redundant if you use a keypad. I like the idea of lining up division to multiplication, and similar for the assignment variations, left to right like that. All slash characters are just in trial spots. Putting / here is easy to type, but still feels like maybe it should be on the normal state selection, but not sure where. Still very experimental here overall.
 
 ![Option state](screenshots/alt.png)
 
