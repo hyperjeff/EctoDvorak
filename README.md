@@ -1,7 +1,7 @@
 EctoDvorak keyboard layout for macOS
 ===========
 
-EctoDvorak is mod of [DeepDvorak](https://github.com/vbauerster/DeepDvorak), which is a mod of [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/index.html). Both variants do some interesting things, but this an attempt to steer things into another direction, at least initially set in motion by my needs while in Swift programmer mode.
+EctoDvorak is mod of [DeepDvorak](https://github.com/vbauerster/DeepDvorak), which is a mod of [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/index.html). Both variants do some interesting things, but this is an attempt to steer things into another direction, at least initially set in motion by my needs while in Swift programmer mode.
 
 While I'm inspired by their willingness to totally change up where numbers and symbols go, and many ideas are really great, I want to explore other possibilities.
 
@@ -30,7 +30,7 @@ The single and double quote keys have been moved to mirror pinky positions (sing
 
 * **SHIFT ⇧**
 
-Extremely easy access to paretheses, and in Swift having such easy access to \() is a nice luxury. Splitting up \ and / on opposite sides, both in easy-to-hit positions, is comfortable and a nice break from their normal grouping, much like the separation of quotations in the normal keyboard above. < and > evolved into their spots to make them at least reasonable when you are thinking of them. The programmer may also get a kick out of having one-key access to \n \\" and ->.
+Extremely easy access to paretheses, and in Swift having such easy access to the series \\ ( ) is a nice luxury. Splitting up \ and / on opposite sides, both in easy-to-hit positions, is comfortable and a nice break from their normal grouping, much like the separation of quotations in the normal keyboard above. < and > evolved into their spots to make them at least reasonable when you are thinking of them. The programmer may also get a kick out of having one-key access to \n \\" and ->.
 
 ![Shift state](screenshots/shift.png)
 
