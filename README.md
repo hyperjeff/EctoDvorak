@@ -24,13 +24,13 @@ As this is a work in progress, I'm leaving a lot of keys blank until I feel a ne
 
 * **Normal state**
 
-The single and double quote keys have been moved to mirror pinky positions (single on the left because of the position of the s key). Why two exclamation marks? I haven't yet decided which position is best.
+The single and double quote keys have been moved to mirror pinky positions (single on the left because of the position of the s key). The + and = keys are very frequently used in programming. += and -= become very quick gestures with no metakeys being held down. Two ! and = keys so far. Probably the right ! is unnecessary, but the two = signs feels surprisingly nice to have. I tend to use both as frequently.
 
 ![Normal state](screenshots/normal.png)
 
 * **SHIFT ⇧**
 
-Most of the top row is blank. Fairly nice access to parentheses. The same spot gives <> when using the option key. Curly braces overlap where braces are un-shifted.
+Extremely easy access to paretheses, and in Swift having such easy access to \() is a nice luxury. Splitting up \ and / on opposite sides, both in easy to hit positions, is comfortable and a nice break from their normal grouping, much like the separation of quotations in the normal keyboard above. < and > evolved into their spots to make them at least reasonable when you are thinking of them. The programmer may also get a kick out of having one-key access to \n \" and ->.
 
 ![Shift state](screenshots/shift.png)
 
@@ -38,7 +38,7 @@ Most of the top row is blank. Fairly nice access to parentheses. The same spot g
 
 * **OPTION ⌥**
 
-This is pretty odd still. The numbers being here does feel pretty good, though I realize it seems pretty redundant if you use a keypad. I like the idea of lining up division to multiplication, and similar for the assignment variations, left to right like that. All slash characters are just in trial spots. Putting / here is easy to type, but still feels like maybe it should be on the normal state selection, but not sure where. Still very experimental here overall.
+All hell breaks loose here, but there is some interesting experimentation. The numbers being here does feel pretty good, though I realize it seems pretty redundant if you use a keypad. Some things will almost certainly still change, like \ | and /. The best moments of this layout, as judged by constant use and easy of memorizing, are $0 $1 == || && and //. As well, having the couplet of the block comment symbols on the same key is nice.
 
 ![Option state](screenshots/alt.png)
 
