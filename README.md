@@ -30,7 +30,7 @@ The single and double quote keys have been moved to mirror pinky positions (sing
 
 * **SHIFT ⇧**
 
-Extremely easy access to paretheses, and in Swift having such easy access to \() is a nice luxury. Splitting up \ and / on opposite sides, both in easy to hit positions, is comfortable and a nice break from their normal grouping, much like the separation of quotations in the normal keyboard above. < and > evolved into their spots to make them at least reasonable when you are thinking of them. The programmer may also get a kick out of having one-key access to \n \" and ->.
+Extremely easy access to paretheses, and in Swift having such easy access to \() is a nice luxury. Splitting up \ and / on opposite sides, both in easy-to-hit positions, is comfortable and a nice break from their normal grouping, much like the separation of quotations in the normal keyboard above. < and > evolved into their spots to make them at least reasonable when you are thinking of them. The programmer may also get a kick out of having one-key access to \n \\" and ->.
 
 ![Shift state](screenshots/shift.png)
 
