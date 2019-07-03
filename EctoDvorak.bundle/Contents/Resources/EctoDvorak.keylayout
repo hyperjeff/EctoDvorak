@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.3.0.249 on 2019-06-01 at 16:32 (CDT)-->
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-06-27 at 23:22 (CDT)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-07-03 at 00:30 (CDT)-->
 <keyboard group="126" id="-28482" name="EctoDvorak" maxout="5">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -73,10 +73,10 @@
             <key code="19" output="+"/>
             <key code="20" output="="/>
             <key code="21" output="?"/>
-            <key code="22" output="•"/>
+            <key code="22" output="✔︎"/>
             <key code="23" output="~"/>
             <key code="24" output="]"/>
-            <key code="25" output="✔︎"/>
+            <key code="25" output="•"/>
             <key code="26" output="&#x0026;"/>
             <key code="27" output="["/>
             <key code="28" output="*"/>
@@ -181,11 +181,11 @@
             <key code="22" output=""/>
             <key code="23" output="%"/>
             <key code="24" output="\&#x0022;"/>
-            <key code="25" output="|"/>
-            <key code="26" output="&#x003C;"/>
+            <key code="25" output="&#x003E;"/>
+            <key code="26" output="˙"/>
             <key code="27" output="\n"/>
-            <key code="28" output="&#x003E;"/>
-            <key code="29" output="˙"/>
+            <key code="28" output="&#x003C;"/>
+            <key code="29" output="|"/>
             <key code="30" output="}"/>
             <key code="31" output="R"/>
             <key code="32" output="G"/>
