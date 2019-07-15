@@ -38,7 +38,7 @@ Extremely easy access to paretheses, and in Swift having such easy access to the
 
 * **OPTION ⌥**
 
-All hell breaks loose here, but there is some interesting experimentation. The numbers being here does feel pretty good, though I realize it seems pretty redundant if you use a keypad. Some things will almost certainly still change, like \ | and /. The best moments of this layout, as judged by constant use and easy of memorizing, are $0 $1 == || && and //. As well, having the couplet of the block comment symbols on the same key is nice.
+All hell breaks loose here, but there is some interesting experimentation. Numbers: available both as a pure linear lineup in the homerow and as a keypad right in the middle. Still under review. $0 and $1 are Swift-specific nods. Lots of 'programming dipthongs' like ==, !=, &&, ||, ../, etc, seem to be proving to be very handy, especially the quick-commenting keys, //, /* and */.
 
 ![Option state](screenshots/alt.png)
 
