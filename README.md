@@ -38,7 +38,7 @@ Extremely easy access to paretheses, and in Swift having such easy access to the
 
 * **OPTION ⌥**
 
-All hell breaks loose here, but there is some interesting experimentation. Numbers: available both as a pure linear lineup in the homerow and as a keypad right in the middle. Still under review. $0 and $1 are Swift-specific nods. Lots of 'programming dipthongs' like ==, !=, &&, ||, ../, etc, seem to be proving to be very handy, especially the quick-commenting keys, //, /* and */.
+All hell breaks loose here, but there is some interesting experimentation. Numbers: available both as a pure linear lineup in the homerow and as a keypad right in the middle. Still under review. $0 and $1 are Swift-specific nods. Lots of programming key combos like ==, !=, &&, ||, ../, etc, seem to be proving to be very handy, especially the quick-commenting keys, //, /* and */.
 
 ![Option state](screenshots/alt.png)
 
